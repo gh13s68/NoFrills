@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "e5b92ed6-89c7-44c0-a15c-bbfcdb60aa12",
+    "appType": "clockface",
+    "appDisplayName": "No Frills",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "No Frills"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
