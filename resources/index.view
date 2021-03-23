@@ -1,0 +1,30 @@
+<svg>
+  <text id="myTime" />
+  
+  <text id="myDate" />
+  
+  <!--<image id="battimg" href="batt1.png" height="23" width="10" x="5" y="7"/>-->
+  <text id="myBatt" x="20" y="30"/>
+  
+  <!--<image id="hrimg" href="hr.jpg" height="20" width="20" x="210" y="7" />-->
+  <text id="myHR" x="235" y="30" />
+  
+  <!--<image id="stepimg" href="steps.png" height="20" width="20" x="5" y="160" />-->
+  <text id="mySteps" x="30" y="180" />
+  
+  <!--<image id="hrglimg" href="hrglass.png" height="20" width="20" x="175" y="160" />-->
+  <text id="myHrSteps" x="200" y="180" />
+  
+ <!-- <image id="calsimg" href="cals.png" height="20" width="20" x="5" y="200" />-->
+  <text id="myCals" x="30" y="220" />
+ 
+ <!--<image id="floorimg" href="floors.png" height="20" width="20" x="175" y="200" />-->
+  <text id="myStairs" x="200" y="220"/>
+ 
+  <!--<image id="distimg" href="dist.png" height="20" width="20" x="5" y="240" />-->
+  <text id="myDist" x="30" y="260" />
+  
+  <!--<image id="amimg" href="am.png" height="20" width="20" x="175" y="240" />-->
+   <text id="myAM" x="200" y="260"/>
+</svg>
+

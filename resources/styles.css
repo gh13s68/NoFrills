@@ -1,0 +1,93 @@
+#myTime {
+  font-size: 60;
+  font-family: System-Regular;
+  text-length: 300;
+  text-anchor: middle;
+  x: 150;
+  y: 90;
+  fill: white;
+}
+
+#myDate{
+  font-size:45;
+  font-family: System-Regular;
+  text-length:300;
+  text-anchor:middle;
+  x:150;
+  y:135;
+  fill: white;
+}
+
+#myBatt
+{
+  font-size:35;
+  font-family: System-Bold;  
+  text-length:55;
+  text-anchor:start;
+  x:5%;
+  y:10%;
+}
+
+#myHR
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#mySteps
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#myCals
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#myDist
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#myStairs
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#myAM
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
+#myHrSteps
+{
+  font-size:35;
+  font-family: System-Bold;
+  text-length:50;
+  text-anchor:start;
+  fill:white;
+}
+
